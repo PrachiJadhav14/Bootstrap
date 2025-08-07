@@ -1,21 +1,27 @@
-.container{
+.container {
     border: 1px solid black;
 }
-.row{
+
+.row {
     border: 1px solid red;
 }
-.col{
+
+.col {
     border: 1px solid blueviolet;
 }
-.pink{
+
+.pink {
     background-color: pink;
 }
-.orange{
+
+.orange {
     background-color: orange;
 }
-.aqua{
+
+.aqua {
     background-color: aqua;
 }
-.blueviolet{
- background-color: blueviolet;
+
+.blueviolet {
+    background-color: blueviolet;
 }
