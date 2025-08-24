@@ -1,5 +1,5 @@
 .container{
-    border: 1px solid black;
+        border: 1px solid black;
 }
 .row{
     border: 1px solid red;
@@ -19,7 +19,6 @@
     background-color: aqua;
     font-size: 32;
 }
-
 .blueviolet{
  background-color: blueviolet;
 }
